@@ -1,0 +1,21 @@
+Food,Category,Storage,Expiry_Days
+Milk,Dairy,Fridge,5
+Bread,Bakery,Room,3
+Apple,Fruit,Fridge,10
+Chicken,Meat,Freezer,30
+Yogurt,Dairy,Fridge,7
+Rice,Grain,Room,180
+Cheese,Dairy,Fridge,14
+Tomato,Vegetable,Fridge,7
+Potato,Vegetable,Room,30
+Eggs,Dairy,Fridge,21
+Orange,Fruit,Room,7
+Fish,Meat,Freezer,25
+Cucumber,Vegetable,Fridge,6
+Butter,Dairy,Fridge,20
+Onion,Vegetable,Room,25
+Pasta,Grain,Room,365
+Mango,Fruit,Fridge,6
+Carrot,Vegetable,Fridge,15
+Beans,Vegetable,Fridge,8
+Ice Cream,Dairy,Freezer,60
